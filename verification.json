@@ -1,0 +1,52 @@
+[
+  {
+    "program": "welcome.py",
+    "input": [
+      "Ding"
+    ],
+    "output": "Enter your name: Welcome Ding\nThis is our team project.\n",
+    "passed": true
+  },
+  {
+    "program": "calculator.py",
+    "input": [
+      "12",
+      "30"
+    ],
+    "output": "Enter first number: Enter second number: Total: 42\n",
+    "passed": true
+  },
+  {
+    "program": "calculator.py",
+    "input": [
+      "-4",
+      "9"
+    ],
+    "output": "Enter first number: Enter second number: Total: 5\n",
+    "passed": true
+  },
+  {
+    "program": "grade.py",
+    "input": [
+      "49"
+    ],
+    "output": "Enter your mark: Fail\n",
+    "passed": true
+  },
+  {
+    "program": "grade.py",
+    "input": [
+      "50"
+    ],
+    "output": "Enter your mark: Pass\n",
+    "passed": true
+  },
+  {
+    "program": "grade.py",
+    "input": [
+      "100"
+    ],
+    "output": "Enter your mark: Pass\n",
+    "passed": true
+  }
+]
